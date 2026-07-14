@@ -1,0 +1,5 @@
+{
+  "name": "dbt-sttm-plugin",
+  "description": "Plugin providing the sttm_to_dbt_model skill for generating dbt models from STTM Excel files",
+  "version": "1.0.0"
+}
